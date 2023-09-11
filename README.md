@@ -1,4 +1,3 @@
-# cannon-algorithm-for-matrix-multiplication
 # Parallel-Matrix-Matrix-Multiplication-with-MPI-using-Cannon-s-Algorithm
 
 ## How to install MPI on Ubuntu / Linux
