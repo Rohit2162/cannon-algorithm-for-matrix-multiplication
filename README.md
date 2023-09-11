@@ -4,7 +4,9 @@
 ## 1. Fedora
 Command to install package:
 sudo dnf upgrade
+
 sudo dnf install apt
+
 sudo apt install libopenmpi-dev
 
 ## 2. Ubuntu
